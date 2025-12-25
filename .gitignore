@@ -1,0 +1,8 @@
+# Django junk
+__pycache__/
+*.pyc
+db.sqlite3
+
+# Virtual Environment (Important! Never upload this)
+venv/
+.env
